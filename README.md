@@ -1,4 +1,4 @@
-# computer-vision-image-processor
+# Image Processor
  
 Created a general image processor that can demosaic RGB images, detect edges and identify vanishing points
 
